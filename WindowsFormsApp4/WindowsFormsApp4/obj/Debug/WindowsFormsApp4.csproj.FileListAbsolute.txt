@@ -1,0 +1,12 @@
+D:\ETEC\2º Semestre\Carlos\WindowsFormsApp4\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\ETEC\2º Semestre\Carlos\WindowsFormsApp4\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\ETEC\2º Semestre\Carlos\WindowsFormsApp4\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\ETEC\2º Semestre\Carlos\WindowsFormsApp4\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+D:\ETEC\2º Semestre\Carlos\WindowsFormsApp4\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+D:\ETEC\2º Semestre\Carlos\WindowsFormsApp4\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\ETEC\2º Semestre\Carlos\WindowsFormsApp4\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\ETEC\2º Semestre\Carlos\WindowsFormsApp4\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\ETEC\2º Semestre\Carlos\WindowsFormsApp4\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\ETEC\2º Semestre\Carlos\WindowsFormsApp4\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+D:\ETEC\2º Semestre\Carlos\WindowsFormsApp4\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmPesoIdeal2.resources
+D:\ETEC\2º Semestre\Carlos\WindowsFormsApp4\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmIMC2.resources

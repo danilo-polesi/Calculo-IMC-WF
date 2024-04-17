@@ -1,0 +1,29 @@
+Tópicos abordados:
+-Criação de Menu com o MenuStrip;
+
+-Chamando outros Forms;
+-Atalhos do Menu(Ctrl+tecla);
+-Formulário Principal;
+	formborderstyle:none;
+	windowsstate:Maximized;	
+-"Chamando" arquivos EXE;
+	no início da programação do FORM: using System.Diagnostics;
+	Process programa = System.Diagnostics.Process.Start("calc.exe");
+	programa.waitForExit();
+
+
+-Imagem em Windows Form;
+	propriedade backgroundimage:Importa a imagem
+		    backgoundimagelayout:strech	
+
+
+Passos:
+	criar projeto novo
+	adicionar dois forms(frmPeso e frmImc)(menu Projeto>Adicionar Formulário)
+	mudar propriedades Form1 e dos outros forms
+	Adicionar MenuStrip
+	Programar os Submenus
+		Chamar o frmPeso
+			NomedoForm apelido = new NomedoForm();
+			apelido.ShowDialog();
+	
