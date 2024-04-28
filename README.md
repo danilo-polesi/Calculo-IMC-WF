@@ -8,7 +8,6 @@ O aplicativo usa os seguintes recursos de programação:<br>
 <b>Controles de entrada:</b> Para permitir que o usuário insira sua altura e peso.<br>
 <b>Controles de saída:</b> Para exibir o IMC calculado para o usuário.<br>
 <b>Validação de dados:</b> Para garantir que os dados inseridos pelo usuário sejam válidos (por exemplo, números válidos e altura e peso positivos).<br>
-<b>Loop:</b> Para iterar sobre o conjunto de números e calcular a soma.<br><br>
 <b>Uso do Aplicativo:</b> Para usar o aplicativo, o usuário insere sua altura e peso nos controles de entrada. O aplicativo calcula o IMC usando a fórmula IMC = peso / (altura * altura) e exibe o resultado no controle de saída.<hr>
 
 <b>Viewer:</b><br><br>
