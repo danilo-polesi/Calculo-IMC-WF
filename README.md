@@ -1,3 +1,4 @@
+<b>Informações adicionais:</b><br><br>
 O repositório GitHub "Calculo-IMC-WF" contém o código-fonte de um aplicativo Windows Forms (WF) escrito em C# que calcula o índice de massa corporal (IMC) de uma pessoa.<br><br>
 <b>Programação Envolvida:</b><br><br>
 O aplicativo usa os seguintes recursos de programação:<br>
